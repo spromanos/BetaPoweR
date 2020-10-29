@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603986362119.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EF583932",
+    "lastKnownWriteTime" : 1604000676,
+    "last_content_update" : 1604000676195,
+    "path" : "~/Desktop/BetaPower/man/plot_beta_curve.Rd",
+    "project_path" : "man/plot_beta_curve.Rd",
+    "properties" : {
+        "cursorPosition" : "26,43",
+        "scrollLine" : "18",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

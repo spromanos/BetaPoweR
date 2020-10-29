@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603994419174.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3200408345",
+    "id" : "71A7188B",
+    "lastKnownWriteTime" : 1603998549,
+    "last_content_update" : 1603998549830,
+    "path" : "~/Desktop/BetaPower/R/betapower.R",
+    "project_path" : "R/betapower.R",
+    "properties" : {
+        "cursorPosition" : "85,1",
+        "scrollLine" : "80"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

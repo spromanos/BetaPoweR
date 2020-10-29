@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603986307685.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C228FB34",
+    "lastKnownWriteTime" : 1604000334,
+    "last_content_update" : 1604000334602,
+    "path" : "~/Desktop/BetaPower/man/beta_curve.Rd",
+    "project_path" : "man/beta_curve.Rd",
+    "properties" : {
+        "cursorPosition" : "41,36",
+        "scrollLine" : "33",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

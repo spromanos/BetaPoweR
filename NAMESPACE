@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(ggplot2, betareg, rBeta2009)
+importFrom("stats", "coef", "p.adjust")
+importFrom("utils", "setTxtProgressBar", "txtProgressBar")

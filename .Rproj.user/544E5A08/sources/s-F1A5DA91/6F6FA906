@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603986085608.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "352148530",
+    "id" : "6F6FA906",
+    "lastKnownWriteTime" : 1603994504,
+    "last_content_update" : 1603994504164,
+    "path" : "~/Desktop/BetaPower/man/simulate_beta.Rd",
+    "project_path" : "man/simulate_beta.Rd",
+    "properties" : {
+        "cursorPosition" : "17,1",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

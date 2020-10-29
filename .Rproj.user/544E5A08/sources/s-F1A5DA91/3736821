@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603986259275.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3736821",
+    "lastKnownWriteTime" : 1604000649,
+    "last_content_update" : 1604000649882,
+    "path" : "~/Desktop/BetaPower/man/mu1_curve_data.Rd",
+    "project_path" : "man/mu1_curve_data.Rd",
+    "properties" : {
+        "cursorPosition" : "42,0",
+        "scrollLine" : "33",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603986199223.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BECB6336",
+    "lastKnownWriteTime" : 1604000347,
+    "last_content_update" : 1604000347896,
+    "path" : "~/Desktop/BetaPower/man/beta_power.Rd",
+    "project_path" : "man/beta_power.Rd",
+    "properties" : {
+        "cursorPosition" : "35,0",
+        "scrollLine" : "28",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

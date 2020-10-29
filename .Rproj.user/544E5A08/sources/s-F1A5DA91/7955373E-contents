@@ -1,0 +1,16 @@
+\name{load_dependencies}
+\alias{load_dependencies}
+%- Also NEED an '\alias' for EACH other topic documented here.
+\title{Install or load dependencies for BetaPower package
+}
+\description{load_dependencies() is run internally by beta_curve() to install or load dependencies for the BetaPower package: ggplot2, betareg, rBeta2009.
+}
+\usage{
+load_dependencies()
+}
+}
+
+\examples{
+# Install or load dependencies of BetaPower package
+load_dependencies()
+}

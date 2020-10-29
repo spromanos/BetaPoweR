@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603990356388.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "657803387",
+    "id" : "23E0677A",
+    "lastKnownWriteTime" : 1603995194,
+    "last_content_update" : 1603995194212,
+    "path" : "~/Desktop/BetaPower/man/calculate_a_b.Rd",
+    "project_path" : "man/calculate_a_b.Rd",
+    "properties" : {
+        "cursorPosition" : "16,1",
+        "scrollLine" : "10",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
